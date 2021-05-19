@@ -1,0 +1,15 @@
+In this project I used the following sources:
+
+The dataset is a Kaggle dataset where you can find it in the following link:
+
+https://www.kaggle.com/spscientist/students-performance-in-exams
+
+Here is some more information:
+
+http://roycekimmons.com/tools/generated_data/exams
+
+The inspiration:
+
+To understand the influence of the parents background, test preparation etc on students performance.
+
+ 
